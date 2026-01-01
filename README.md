@@ -5,6 +5,8 @@ Code of RAWFusion: A Region-Aware Fusion Method for Infrared and Visible Images
 Due to file size issues, the training set has been removed from the code and the MSRS dataset can be downloaded here: https://github.com/Linfeng-Tang/MSRS
 Place the downloaded training dataset under: train/MSRS path.
 
+The model we trained on the MSRS dataset can be downloaded here:https://drive.google.com/file/d/15079rZT_oi4VqX2BrlqIZJ5HZTTlVd8w/view?usp=sharing
+
 ## To Train 
 Run "** python train.py**" to train your model.
 The training data are selected from the MSRS dataset. 
@@ -23,9 +25,9 @@ author={Quanquan Xiao ,etc},
 ```
 
 ## Result
-The results of the fusion of deformed IR and visible images on the MSRS test set can be downloaded at the following link: https://drive.google.com/file/d/1qJBlsB8C1kBVLdYoCLsoCqCTkEq7bkPe/view?usp=sharing.
+The results of the fusion of deformed IR and visible images on the MSRS test set can be downloaded at the following link: https://drive.google.com/file/d/1RkpqmmT_EV8OlHSOF5uTnu8mQet2fj_F/view?usp=sharing.
 
-The results of the fusion of deformed IR and visible images on the M3FD test set can be downloaded at the following link: https://drive.google.com/file/d/1dXYX-Vcd_Tt4qFU86aFsefmWJKEYnwQ4/view?usp=sharing.
+The results of the fusion of deformed IR and visible images on the M3FD test set can be downloaded at the following link: https://drive.google.com/file/d/1qf7yWrGpHTPsAiE1_VvZCxSEmgCjBe9p/view?usp=sharing
 
 ## References
 [1]L. Tang, J. Yuan, J. Ma, Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network, Information Fusion 82 (2022) 28–42. https://doi.org/10.1016/j.inffus.2021.12.004.
