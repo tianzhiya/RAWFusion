@@ -1,4 +1,4 @@
-# CPMFusion
+# RAWFusion
 Code of RAWFusion: A Region-Aware Fusion Method for Infrared and Visible Images
 
 ## Tips:<br>
