@@ -29,10 +29,13 @@ The results of the fusion of deformed IR and visible images on the M3FD test set
 
 ## References
 [1]L. Tang, J. Yuan, J. Ma, Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network, Information Fusion 82 (2022) 28–42. https://doi.org/10.1016/j.inffus.2021.12.004.
+
 [2]D. Wang, J. Liu, X. Fan, R. Liu, Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration, (2022). https://doi.org/10.48550/arXiv.2205.11876.
+
 [3]Y. Fang, C. Peng, C. Lv, W. Lin, SRENet: Saliency-Based Lighting Enhancement Network, IEEE Trans. on Image Process. 34 (2025) 4541–4552. https://doi.org/10.1109/TIP.2025.3587588.
+
 [4]Z. Zhang, H. Li, T. Xu, X.-J. Wu, J. Kittler, DDBFusion: An unified image decomposition and fusion framework based on dual decomposition and Bézier curves, Information Fusion 114 (2025) 102655. https://doi.org/10.1016/j.inffus.2024.102655.
+
 [5]L. Tang, J. Yuan, H. Zhang, X. Jiang, J. Ma, PIAFusion: A progressive infrared and visible image fusion network based on illumination aware, Information Fusion 83–84 (2022) 79–92. https://doi.org/10.1016/j.inffus.2022.03.007.
-[6]J. Liu, G. Wu, J. Luan, Z. Jiang, R. Liu, X. Fan, HoLoCo: Holistic and local contrastive learning network for multi-exposure image fusion, Information Fusion 95 (2023) 237–249. https://doi.org/10.1016/j.inffus.2023.02.027.
 
 If you have any question, please email to me (569500735@qq.com).
