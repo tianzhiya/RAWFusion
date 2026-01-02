@@ -263,7 +263,7 @@ def train(config):
             ircriterion = IRForegroundEnhanceLoss(lambda_grad=1.0, lambda_texture=1.0, lambda_bright=0.1)
             irloss_fg = ircriterion(ir_qg_pred, IR_qg)
 
-            loss = loss_fusion[0] + visLossQg + visLossBg + bgloss_bg + irloss_fg
+            loss = loss_fusion[0] + 5*(visLossQg + visLossBg) + 2*(bgloss_bg + irloss_fg)
 
             loss.backward()
             optimizer.step()
